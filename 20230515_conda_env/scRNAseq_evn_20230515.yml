@@ -1,0 +1,6 @@
+name: scRNAseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /home/zhouying/miniconda3/envs/scRNAseq

@@ -1,0 +1,9 @@
+name: chromHMM
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - java-jdk=8.0.112=1
+  - openjdk=8.0.112=zulu8.19.0.1_3
+prefix: /home/zhouying/miniconda3/envs/chromHMM
